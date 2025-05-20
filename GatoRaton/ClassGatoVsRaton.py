@@ -10,7 +10,6 @@ class GatoVsRaton:
         tablero[0][0] = 'G'
         tablero[7][9] = 'R'
         self.update_board()
-
     def update_board(self):
         """Actualiza el tablero con las posiciones actuales"""
         self.board = [[" " for _ in range(self.size)] for _ in range(self.size)]

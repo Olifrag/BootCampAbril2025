@@ -1,7 +1,7 @@
 gato 
 raton
 
-movimientos = [(-1, 0), (1, 0), (0, -1), (0, 1)]
+movimientos arriba y abajo = [(-1, 0), (1, 0), (0, -1), (0, 1)]
 pos
 
 choques gana gato
